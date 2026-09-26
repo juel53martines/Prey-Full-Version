@@ -236,4 +236,4 @@ This repository serves as the official landing page for Prey. The software is di
 **Get the most recent version of Prey today!**
 
 ---
-**Last updated:** 2026-09-26 18:23:40 UTC
+**Last updated:** 2026-09-26 21:52:43 UTC
